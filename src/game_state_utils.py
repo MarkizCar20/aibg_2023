@@ -1,6 +1,7 @@
-from game_state import state
+from game_state import state_example
 
 myID = 0
+state = state_example
 
 def getMyID():
     return state["playerIdx"]

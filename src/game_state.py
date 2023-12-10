@@ -1,4 +1,4 @@
-state = {
+state_example = {
   "playerIdx": 4,
   "gameState": {
     "turn": 5000,
